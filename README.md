@@ -1,7 +1,5 @@
 ## Hi there I'm Si-rak👋
 
-# Hello, I'm [Your Name] 👋
-
 ## About Me
 I'm a Frontend Developer based in Norway. I am dedicated to developing software solutions that address real-life challenges and improve people's lives through technology.
 
