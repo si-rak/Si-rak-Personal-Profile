@@ -46,6 +46,6 @@ I’m always open to collaboration and discussions. Feel free to reach out or ch
 
 **Email**: zebeaman3@gmail.com
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sirak-getachew-a422a7208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
- [Portfolio](Your-Portfolio-URL)
+ [Portfolio](https://github.com/si-rak))
 
 
