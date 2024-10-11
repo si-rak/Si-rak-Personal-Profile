@@ -42,7 +42,7 @@ Designed an intuitive layout to enhance user experience and readability.
 
 ### Connect with Me
 
-I’m always open to collaboration and discussions. Feel free to reach out or check out my projects on my [GitHub profile](https://github.com/your-username)!
+I’m always open to collaboration and discussions. Feel free to reach out or check out my projects on my (https://github.com/si-rak))!
 
 - [Email](zebeaman3@gmail.com)
 - [LinkedIn](Your-LinkedIn-URL)
