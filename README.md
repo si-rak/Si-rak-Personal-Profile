@@ -42,7 +42,7 @@ Designed an intuitive layout to enhance user experience and readability.
 
 ### Connect with Me
 
-I’m always open to collaboration and discussions. Feel free to reach out or check out my projects on my (https://github.com/si-rak))!
+I’m always open to collaboration and discussions. Feel free to reach out or check out my projects on my https://github.com/si-rak
 
 **Email**: zebeaman3@gmail.com
 **LinkedIn**: https://www.linkedin.com/in/sirak-getachew-a422a7208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
